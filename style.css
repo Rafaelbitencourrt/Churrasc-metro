@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+
+}
+
+.container{
+    background-image: url(/imagem/emerson-vieira-Qi7NlvF-ZsY-unsplash.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#app {
+    background-color:  #ffffffbb;
+
+    margin: auto;
+    max-width: 400px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+#app input{
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+
+}
