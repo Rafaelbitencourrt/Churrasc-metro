@@ -1,30 +1,27 @@
-body{
-    margin: 0;
-
+body {
+  margin: 0;
 }
 
-.container{
-    background-image: url(/imagem/emerson-vieira-Qi7NlvF-ZsY-unsplash.jpg);
-    background-size: cover;
-    width: 100vw;
-    height: 100vh;
-    box-sizing: border-box;
-    overflow: hidden;
+.container {
+  background-image: url(/imagem/emerson-vieira-Qi7NlvF-ZsY-unsplash.jpg);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
 #app {
-    background-color:  #ffffffbb;
+  background-color: #ffffffbb;
 
-    margin: auto;
-    max-width: 400px;
-    text-align: center;
-    padding: 20px;
-
+  margin: auto;
+  max-width: 400px;
+  text-align: center;
+  padding: 20px;
 }
 
-#app input{
-    display: block;
-    margin-bottom: 10px;
-    width: 100%;
-
+#app input {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
 }
